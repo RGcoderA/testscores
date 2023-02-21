@@ -1,5 +1,5 @@
-# This program gets a numeric test score from the
-# user and displays the corresponding letter grade.
+# This program gets a numeric test score from the user and displays the corresponding letter grade.
+# the program uses a if and else statement, as it gets the input from the users as they type there score.
 
 # Variables to represent the grade thresholds
 A_score = 90
